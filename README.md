@@ -6,7 +6,7 @@ This project is designed to connect with a backend API built using Node.js + Exp
 
 🚀 Live Demo
 
-Add your deployed URL here
+https://eventwave-one.vercel.app/
 
 📌 Features
 
